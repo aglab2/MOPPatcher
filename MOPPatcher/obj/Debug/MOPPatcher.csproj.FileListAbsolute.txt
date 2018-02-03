@@ -1,0 +1,9 @@
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.PatcherForm.resources
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.Properties.Resources.resources
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.csproj.GenerateResource.Cache
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.csproj.CoreCompileInputs.cache
+D:\MOPPatcher\MOPPatcher\bin\Debug\MOPPatcher.exe.config
+D:\MOPPatcher\MOPPatcher\bin\Debug\MOPPatcher.exe
+D:\MOPPatcher\MOPPatcher\bin\Debug\MOPPatcher.pdb
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.exe
+D:\MOPPatcher\MOPPatcher\obj\Debug\MOPPatcher.pdb
